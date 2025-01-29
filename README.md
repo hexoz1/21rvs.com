@@ -1,4 +1,3 @@
-1
 <!DOCTYPE html>
 <html lang="lv">
 <head>
@@ -28,9 +27,6 @@
     </script>
 </body>
 </html>
-> Пупс❤️:
-2. 
-
 <!DOCTYPE html>
 <html lang="lv">
 <head>
@@ -70,10 +66,6 @@
     </script>
 </body>
 </html>
-
-> Пупс❤️:
-3.
-
 <!DOCTYPE html>
 <html lang="lv">
 <head>
@@ -105,10 +97,6 @@
     </script>
 </body>
 </html>
-
-> Пупс❤️:
-4.
-
 body {
     font-family: Arial, sans-serif;
     background-color: #1e1e3f;
